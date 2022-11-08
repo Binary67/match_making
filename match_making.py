@@ -5,8 +5,6 @@ from collections import namedtuple
 from collections import deque
 import json
 
-os.chdir('/Users/frankylau/Desktop/Projects/Own Projects/Match Making')
-
 # json_file = 'sample.json'
 
 def transform_json(json_file):
