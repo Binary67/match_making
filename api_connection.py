@@ -48,6 +48,6 @@ def parse_data(user : User):
     return {'User_ID Added' : user.user_id}
 
 @app.get("/")
-def parse_data(user : User):
+def parse_data():
 
     return {'Hello' : 'World'}
