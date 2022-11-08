@@ -46,3 +46,8 @@ def retrieve_user():
 def parse_data(user : User):
     database.append(user)
     return {'User_ID Added' : user.user_id}
+
+@app.post("/")
+def parse_data(user : User):
+
+    return {'Hello' : 'World'}
