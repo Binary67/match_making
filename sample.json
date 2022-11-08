@@ -1,5 +1,0 @@
-[{"user_id": 1, "location": 1, "gender": 2, "attribute_1": 1, "attribute_2": 2, "attribute_3": 3, "attribute_4": 4, "preference_1": 4, "preference_2": 3, "preference_3": 2, "preference_4": 1},
-{"user_id": 2, "location": 1, "gender": 1, "attribute_1": 2, "attribute_2": 3, "attribute_3": 1, "attribute_4": 4, "preference_1": 4, "preference_2": 1, "preference_3": 2, "preference_4": 3},
-{"user_id": 3, "location": 2, "gender": 1, "attribute_1": 4, "attribute_2": 2, "attribute_3": 2, "attribute_4": 1, "preference_1": 1, "preference_2": 2, "preference_3": 2, "preference_4": 4},
-{"user_id": 4, "location": 2, "gender": 2, "attribute_1": 4, "attribute_2": 2, "attribute_3": 2, "attribute_4": 1, "preference_1": 1, "preference_2": 2, "preference_3": 2, "preference_4": 4},
-{"user_id": 5, "location": 3, "gender": 2, "attribute_1": 1, "attribute_2": 2, "attribute_3": 2, "attribute_4": 3, "preference_1": 3, "preference_2": 2, "preference_3": 2, "preference_4": 1}]
