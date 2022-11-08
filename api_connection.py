@@ -47,7 +47,7 @@ def parse_data(user : User):
     database.append(user)
     return {'User_ID Added' : user.user_id}
 
-@app.post("/")
+@app.get("/")
 def parse_data(user : User):
 
     return {'Hello' : 'World'}
