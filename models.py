@@ -6,6 +6,7 @@ class User(BaseModel):
     user_id : int
     location : int
     gender : int
+    age : int
     attribute_1 : int
     attribute_2 : int
     attribute_3 : int
